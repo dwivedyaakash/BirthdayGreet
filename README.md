@@ -4,7 +4,7 @@ This is my first app. The app takes name as input from the user and then greets 
 
 ---
 
-App link - https://drive.google.com/file/d/1emKxMnFMkUzZVRtNOVDQHeavDLsOOyOX/view?usp=sharing
+App link - [click here](https://drive.google.com/file/d/1emKxMnFMkUzZVRtNOVDQHeavDLsOOyOX/view?usp=sharing)
 
 ---
 
